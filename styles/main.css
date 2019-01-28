@@ -1,0 +1,34 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+ @font-face {
+		font-family: "Glyph", "Times";
+		src: url("assets/fonts/glyphicons-halflings-regular.eot");
+		src: 
+		url("assets/fonts/glyphicons-halflings-regular.woff") format("woff"),
+		url("assets/fonts/glyphicons-halflings-regular.svg#") format("svg");
+}
+
+.container {
+	margin-bottom: 20px;
+}
+
+.video-container {
+	width: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
